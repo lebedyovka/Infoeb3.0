@@ -22,3 +22,10 @@
 Общий объем — считает все слова в чате
 
 Статистика по годам — разбивает активность чата по временным периодам.
+
+
+Usage
+<img width="225" height="486" alt="image" src="https://github.com/user-attachments/assets/f7048f9d-8061-4c80-ba90-b1ed6fd036ce" />
+<img width="367" height="488" alt="image" src="https://github.com/user-attachments/assets/7c3d7925-a507-451b-a573-3d9c829c7b18" />
+<img width="427" height="53" alt="image" src="https://github.com/user-attachments/assets/0b35d3c6-c9e1-4c82-a160-2aee71247644" />
+<img width="991" height="436" alt="image" src="https://github.com/user-attachments/assets/d3da89e9-67f0-495f-bda4-531becae5305" />
