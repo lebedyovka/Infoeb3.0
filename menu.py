@@ -15,6 +15,7 @@ print('9 Сколько сообщений за год')
 
 users, frequency, sixseven, num, total_words, total, book, mgs, years = parse_messages(messages)
 
+# если это внатуре кому-то интересно читать на гитхабе, напиши на @bedvka, получишь подарок :)
 
 print('\nВведите команду: ', end='')
 command = input()
